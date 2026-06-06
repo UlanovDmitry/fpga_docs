@@ -17,4 +17,7 @@ https://www.youtube.com/playlist?list=PL2tpftA-kds7aUjCE4GzCe0QNaV-ISePy
 Другой майнер
 https://www.youtube.com/watch?v=OpaxO7RriJ8
 
+**Мета-ссылки**
+
+- [trebisky: заметки по Antminer S9](http://kofa.mmto.arizona.edu/zynq/antminer/)
 
