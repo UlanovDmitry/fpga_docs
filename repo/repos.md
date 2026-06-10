@@ -1,10 +1,10 @@
-Ниже — подборка GitHub-проектов для **дешёвых отладочных плат на XC7Z010 (Zynq-7010)**, в том же духе, что уже описаны в `fpga_docs/Репозитории.md`: перепрофилированные платы управления майнерами, с документацией, Vivado/PetaLinux/BSP или bare-metal примерами.
+Ниже — подборка GitHub-проектов для **дешёвых отладочных плат на XC7Z010 (Zynq-7010)**: перепрофилированные платы управления майнерами, с документацией, Vivado/PetaLinux/BSP или bare-metal примерами. Сводка по этапам туториала — [repos-vs-tutorial.md](repos-vs-tutorial.md).
 
 ---
 
 ## EBAZ4205
 
-Плата управления майнером Ebit E9+ — 256 MB DDR3, 128 MB NAND, Ethernet 100M. Подробнее: [Репозитории.md](Репозитории.md).
+Плата управления майнером Ebit E9+ — 256 MB DDR3, 128 MB NAND, Ethernet 100M. Подробнее: [EBAZ4205 — ресурсы](../links/EBAZ4205%20-%20ресурсы.md).
 
 | Репозиторий | О чём | Что полезного |
 |---|---|---|
@@ -61,7 +61,7 @@
 **Практическая карта для S9:**
 
 1. **Bare-metal** → `KarolNi/S9miner_sample` + `trebisky/Antminer`
-2. **Linux/PetaLinux** → `polprog/antminer_zynq` (заготовка) + [U-Boot DTS](Boot%20-%20ресурсы.md)
+2. **Linux/PetaLinux** → `polprog/antminer_zynq` (заготовка) + [U-Boot DTS](../links/Linux%20-%20ресурсы.md)
 3. **PYNQ** → `kangyuzhe666/zynq7010-pynq-2.5` или `guannan-he/Antminer_s9_pynq`
 4. **SDR / серьёзный PL** → `iliasam/OpenZynqSDR_HW`
 5. **Плата расширения** → `astranome/Astra_S9_FPGA_Base` или `cropinghigh/zynq_a9_mb`
