@@ -12,6 +12,7 @@ https://www.youtube.com/playlist?list=PL-ko_B9tXrAVHm8mZv9w0FTXPxuhR_y5k
 
 Видео на русском
 https://www.youtube.com/playlist?list=PL2tpftA-kds7aUjCE4GzCe0QNaV-ISePy
+https://rutube.ru/channel/50217626
 
 Другой майнер
 https://www.youtube.com/watch?v=OpaxO7RriJ8
