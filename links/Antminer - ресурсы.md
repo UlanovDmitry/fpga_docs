@@ -45,6 +45,12 @@ https://www.youtube.com/watch?v=OpaxO7RriJ8
 | [iliasam/OpenZynqSDR_HW](https://github.com/iliasam/OpenZynqSDR_HW) | Vivado, схема S9, плата ADC |
 | [iliasam/OpenZynqSDRApp](https://github.com/iliasam/OpenZynqSDRApp) | ПО к OpenZynqSDR |
 
+**Инструменты (UART)**
+
+| Ресурс | Что даёт |
+|--------|----------|
+| [Модуль CH340 — схема, драйвер](https://mypractic.ru/modul-ch340-sxema-xarakteristiki-ustanovka-drajvera.html) | Распиновка (5V/VCC/3V3/TXD/RXD/GND), джампер 3.3 V для S9, установка драйвера Windows |
+
 **Dev-плата / документация**
 
 | Ресурс | Что даёт |
