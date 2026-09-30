@@ -10,6 +10,8 @@ https://marsohod.org/howtostart
 https://habr.com/ru/articles/274829/
 https://habr.com/ru/articles/252261/
 
+Проекты Марсохода по темам (шасси и начальный уровень) со ссылками на статьи и GitHub — «Марсоход - проекты.md»
+
 https://is.ifmo.ru/books/2016/digital-design-and-computer-architecture-russian-translation_July16_2016.pdf
 
 IP ядра
